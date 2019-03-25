@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import RouteComponent from './Routes';
+import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div>
-          <RouteComponent />
+      <div className="App">
+        <h1>Welocome to reacasdasdthdh</h1>
       </div>
     );
   }
